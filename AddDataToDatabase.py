@@ -15,7 +15,7 @@ data = {
     "2001":
         {
             "name": "Bill Gates",
-            "major": "Computer Science",
+            "major": "Computers",
             "starting_year": 1990,
             "total_attendance": 6,
             "standing": "G",
@@ -45,7 +45,7 @@ data = {
     "2008":
         {
             "name": "Bharat Upadhyay",
-            "major": "Computer Science",
+            "major": "CS",
             "starting_year": 2020,
             "total_attendance": 15,
             "standing": "G",
